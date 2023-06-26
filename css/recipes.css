@@ -1,0 +1,19 @@
+* {
+    line-height: 1.3;
+}
+
+body {
+    background-color: black; color: antiquewhite;
+}
+
+a {
+    color: aquamarine;    
+}
+
+img {
+    width: 250px;
+}
+
+ul {
+    font-size: large; list-style: square;
+}
